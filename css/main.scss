@@ -4,9 +4,8 @@
 @charset "utf-8";
 
 
-
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Vollkorn', 'Georgia', serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -15,7 +14,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #6B0103;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -39,11 +38,10 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+       	url(http://fonts.googleapis.com/css?family=Vollkorn:400,700,400italic)
 ;
