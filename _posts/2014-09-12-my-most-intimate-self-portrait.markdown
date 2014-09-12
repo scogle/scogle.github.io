@@ -17,7 +17,7 @@ The reason this is my favorite self portrait is that it happened to catch a tran
 
 ####And that's how it was for most of 2012.
 
-Around the beginning of September 2012, however, I met some people at my [college radio station](http://kcsufm.com/) that I would go on to co-host a radio show with and ultimately become very close to.  One of them, the darkest red, would become [my girlfriend](https://twitter.com/lunakcsu).
+Around the beginning of September 2012, however, I met some people at my [college radio station](http://kcsufm.com/) that I would go on to co-host a radio show with and ultimately become very close to.  One of them, (the darkest red in the graph), would become [my girlfriend](https://twitter.com/lunakcsu).
 
 Other threads come in and leave.  The big bumps correspond to important occasions in my life or others', or to breaks when I wasn't seeing people face to face as much.  I can see relationships come and go and remember things that happened during those times.  
 
