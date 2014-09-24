@@ -5,6 +5,7 @@ categories: dataviz personal
 layout: big_header
 header_img: /img/prism_screenshot_09-12-12_14_02.png
 header_img_alt: "My most intimate self portrait - visualizing a year of SMS messages"
+permalink: /my-most-intimate-self-portrait.html
 ---
 
 ####The NSA claimed that it was only collecting metadata&mdash;a fact we now know is false&mdash;but even metadata can tell an intimate story.

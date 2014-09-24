@@ -1,12 +1,12 @@
 # Site settings
 title: Scott Ogle
-email: scottogle+sitecontact@gmail.com
+email: scottogle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Projects, software thinking, data visualization, news hacking and assorted writings.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.scottogle.net" # the base hostname & protocol for your site
-permalink: /:title.html
+permalink: /:title/
 
 twitter_username: scogle
 #github_username:  scogle
