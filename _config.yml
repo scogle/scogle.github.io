@@ -9,7 +9,7 @@ url: "http://www.scottogle.net" # the base hostname & protocol for your site
 permalink: /:title/
 
 twitter_username: scogle
-#github_username:  scogle
+github_username:  scogle
 
 header_img: img/cabbage.jpg
 
