@@ -10,7 +10,7 @@ permalink: /about/
 
 ### Bio
 
-I'm a UI engineer and journalism studuent in Fort Collins, CO.  I'm a bit obsessed with data visualization, software, and thinking about ways to hack journalism.  I currently work at [Semantic Arts](http://semanticarts.com/), a semantic technology consultancy where I work on UI development and data visualization projects.  Off work, I ride a road bike, drink beer and telemark ski.
+I'm a UI engineer and journalism studuent in Fort Collins, CO.  I'm a bit obsessed with data visualization, software, and thinking about ways to hack journalism.  I currently work at [Semantic Arts](http://semanticarts.com/), a semantic technology consultancy where I work on UI development and data visualization projects.  Off work, I ride a road bike, drink local beer and telemark ski.
 
 I'm also a minimalist, but minimally so.
 
