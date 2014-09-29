@@ -6,7 +6,7 @@ permalink: /reading-list/
 
 <br />
 
-#### *Books and other readings that I find myself coming back to*
+#### *Books and other readings that I find myself coming back to.*
 
 <br />
 
@@ -36,3 +36,6 @@ permalink: /reading-list/
 
 [Information Dashboard Design](http://amzn.com/0596100167) by Stephen Few - An excellent reference for anyone who's ever had to build a data dashboard
 
+<br />
+
+[The Information](http://amzn.com/1400096235) by James Gleick - A totally mesmerizing book about the history of computing and information theory.
