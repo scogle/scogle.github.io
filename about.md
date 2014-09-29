@@ -14,6 +14,10 @@ I'm also a minimalist, but minimally so.
 
 ### About the site
 
-This site was built using [jekyll](http://jekyllrb.com/) (which makes web development fun again! Really!) and [SASS](http://sass-lang.com/).  It's hosted on [GitHub Pages](https://pages.github.com/).
+This site was built using [Jekyll](http://jekyllrb.com/) (which makes web development fun again! Really!) and [SASS](http://sass-lang.com/).  It's hosted on [GitHub Pages](https://pages.github.com/).
 
 The font used on the site is [Vollkorn](https://www.google.com/fonts/specimen/Vollkorn) by Friedrich Althausen.
+
+### Contact
+
+I'm **@scogle** on [Twitter](https://twitter.com/scogle) and [GitHub](https://github.com/scogle).  The best way to reach me directly is [by email](mailto:scottogle@gmail.com).
