@@ -1,0 +1,43 @@
+---
+title:  "Introducing Ginger, a little tool for (quickly) building data-centric websites"
+date:   2014-09-28 12:00:00
+categories: projects data
+layout: post
+---
+
+![Ginger, in action!](http://f.cl.ly/items/271v3D0R352I3W1M1c2W/Screen%20Shot%202014-09-28%20at%207.41.03%20PM.png)
+
+#### [Ginger on Github &raquo;](https://github.com/scogle/ginger)
+
+<br />
+
+I recently had to do a project at work, for maybe the third time, that basically just involved taking arbitrary JSON data a building a webpage around it to desplay it in a prettier, more readable manner.
+
+Any good coder should have been questioning why I did it even a third time.
+
+I started hacking over a weekend and finished ~80% of a working prototype Monday morning.  What I arrive at is a tool very, very much like [Jekyll](jekyllrb.com) (which this site is built on) with some key differences.
+
+## Ginger is for data
+
+Like Jekyll, Ginger views have front matter (blocks of metatdata at the beginning of the file) but the most important field is the data source.  Ginger uses Javascript to load data from files or endpoints and renders handlebars templates dynamically on page load.
+
+## Ginger is simple
+
+Ginger doesn't have nearly as many features as Jekyll.  The thing is, this isn't really meant to be the final solution for a project.  Ginger is a prototyping tool.
+
+## Who is this for?
+
+It's intended for journalists, scientists, analysts, hackers and others who work with json data to quickly create simple displays.  The point is to go from data source to presentable site as quickly as humanly possible.  This isn't for creating complex, interactive displays; **Ginger is a tool for those times when you just need to create a damn table and move on to the next thing.**  Seriously, it's not unreasonable to go from data to site in <10 minutes.
+
+## Why did I create this?
+
+I created Ginger for two reasons.  The main reason is that I was tired of spending time putting together data views that were largely the same.  This allows me to just think about the one part that might be different each time--the presentation of the actual data.
+
+Maybe the real reason though is that I just thought it would be fun to write my own twist on a static site generator.  I haven't had a good python project in a while and this seemed like a great way to learn how to work with [setuptools](https://pythonhosted.org/setuptools/setuptools.html) and create Python packages.  Once I get to a more stable point (0.1 release), I'd like to submit to [PyPi](https://pypi.python.org/pypi) just for the hell of it.
+
+## Credits
+
+[Nate Prewitt](https://github.com/nateprewitt) contributed code for the creation module.  Ginger is built on a bunch of different technologies, including jinja2, Handlebars.js and Bootstrap.
+
+*Code is cool.*
+
