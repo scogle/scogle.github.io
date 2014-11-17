@@ -90,9 +90,9 @@
 
 .header-image {
     margin-bottom: 30px;
-    // @include media-query($on-laptop) {
-    //     margin-top: -250px;
-    // }
+    @include media-query($on-laptop) {
+        margin-top: -250px;
+    }
 }
 
 
