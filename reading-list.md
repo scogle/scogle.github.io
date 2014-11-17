@@ -6,11 +6,15 @@ permalink: /reading-list/
 
 <br />
 
-#### *Books and other readings that I find myself coming back to.*
+#### *Books and other publications that I find myself coming back to.*
 
 <br />
 
-[Understanding Computation](http://amzn.com/1449329276) by Tom Stuart - Takes a look into how programming languages and computers work through the lens of the Ruby language.
+[White Noise](http://amzn.com/0140274987) by Don Delillo - This novel set in 1980s America takes a look at the fear of death within us all through the lens of a middle-aged professor of hitler studies.  Delightfully existential.
+
+<br />
+
+[Understanding Computation](http://amzn.com/1449329276) by Tom Stuart - Takes a look into how programming languages and computers work through the lens of the Ruby language. In one particularly riveting section Stuart takes us through a solution to the classic FizzBuzz problem &mdash; not a simple five-liner but through a complete language implementation using Ruby's `proc`.
 
 <br />
 
