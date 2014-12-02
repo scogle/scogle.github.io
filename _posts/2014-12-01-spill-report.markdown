@@ -7,7 +7,7 @@ header_img: /img/pi-big.jpg
 header_img_alt: "Raspberry Pi - a new golden age of computing"
 ---
 
-**tl;dr - I created a Twitter bot that scrapes reported oil and gas spills in Colorado and tweets in near-real time.  [Check it out on Twitter](https://twitter.com/SpillReport).**
+**tl;dr - I created a Twitter bot that scrapes reported oil and gas spills in Colorado and tweets in near-real time.  [Check it out on Twitter](https://twitter.com/SpillReport) and [read more about it in the Rocky Mountain Collegian](http://www.collegian.com/2014/12/colorado-state-student-updates-oil-spill-information-on-twitter/104016/)**
 
 #### Some Backstory
 
