@@ -1,6 +1,6 @@
 ---
 title:  "On Privacy"
-date:   2014-11-17 12:00:00
+date:   2014-12-08 12:00:00
 categories: philosophy
 layout: post
 ---
