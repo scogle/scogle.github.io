@@ -27,7 +27,26 @@ Quoting Georgetown University professor Julie Cohen in an [article in The Atlant
 
 > Cohen doesn't think we should treat privacy as a dispensable instrument. To the contrary, she argues privacy is irreducible to a "fixed condition or attribute (such as seclusion or control) whose boundaries can be crisply delineated by the application of deductive logic. **Privacy is shorthand for breathing room to engage in the process of ... self-development.**"
 
+In short, cohen is making the point that we're treating privacy as a means and not an end in itself. I think there may actually be a bit more nuance here--I do hear rhetoric talking about privacy as an end but it's still often treated as a means to something else, a sort of linguistic bait-and-switch.
 
+I can't offer a solid explanation why privacy in principle might matter more to certain classes of people. Perhaps the idea of "self-development" is itself perceived by some to be a luxury of the bourgeoisie and so without a value placed on that there's little reason to value privacy highly.
+
+### Privacy as an instrumental value
+
+I had a conversation with a friend of mine where the question of whether privacy might be considered an[instrumental value](http://en.wikipedia.org/wiki/Instrumental_value) or an [end-in-itself](http://en.wikipedia.org/wiki/Intrinsic_value_(ethics))--essentially, this is the question of whether privacy is valuable for its own sake or valuable as a means to some other end.
+
+She argued that privacy had to be an instrumental value because it was useless without some other more basic values that it enables, primarily social cohesion through personal image control and self-development.
+
+Quoting an [excellent article by Kate Murphy](http://www.nytimes.com/2014/10/05/sunday-review/we-want-privacy-but-cant-stop-sharing.html?_r=0) (that was brought to my attention by my friend):
+
+> The problem is that if you reveal everything about yourself or it's discoverable with a Google search, you may be diminished in your capacity for intimacy. This goes back to social penetration theory, one of the most cited and experimentally validated explanations of human connection. Developed by Irwin Altman and Dalmas A. Taylor in the 1970s, the theory holds that relationships develop through gradual and mutual self-disclosure of increasingly private and sensitive personal information.
+
+> "Building and maintaining an enduring, intimate relationship is a process of privacy regulation," said Dr. Altman, now an emeritus professor of psychology at the University of Utah. "It's about opening and closing boundaries to maintain individual identity but also demonstrate unity with another, and if there are violations then the relationship is threatened."
+
+But I think this misses the point--**privacy isn't a means to self-development but an essential feature of it**.  The instrumental argument seems to suggest that we could substitute some *other* condition forself development; but this just doesn't seem to adequately capture what privacy is. Put another way, when someone asks *why* you don't want them reading your mail, the instrumentalist would require you to say that doing so interferes with your self development, while the end-in-itself theorist will let you simply throw your hands up and say "it's none of your damn business!"
+
+I have to wonder if this distinction is why it makes it so easy to perform that lingustic bait-and-switch--no one seems to be arguing that privacy isn't valuable at all, but if it can be framed as only instrumentally valuable then it becomes somehow *cheaper*.
+  
 
 
 
