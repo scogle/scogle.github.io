@@ -177,3 +177,24 @@
         }
     }
 }
+
+#contact-form {
+    input, textarea {
+        width: 70%;
+        font-size: 1em;
+        font-family: inherit;
+        padding: 5px;
+        //&:focus { border: 1px solid $background-color; }
+        &[name="name"], &[name="email"] {
+            color: $brand-color;
+        }
+    }
+    label {
+        display: block;
+        clear: both;
+        font-size: 1em;
+        color: lighten($text-color, 30%);
+        margin-top: 10px;
+    }
+    [type="submit"] { font-size: 1em; }
+}
