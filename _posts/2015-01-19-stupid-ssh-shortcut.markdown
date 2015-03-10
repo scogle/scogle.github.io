@@ -26,4 +26,10 @@ Since writing this, I discovered *[Fabric](http://www.fabfile.org)*, a python li
 
 Fabric is intended to live inside of your project directy and run tasks related to that project, but what I've found useful is to create a few 'global' fabfiles that live in a `.fab` directory I created in my home folder.  To invoke them I just create an alias that calls fab with the `-f` flag and a path to the fabfile.
 
+Now, to update the DigitalOcean server that hosts our site, all I have to do is:
+
+{% hightlight bash %}
+$ ocean update
+{%: endhighlight %}
+
 Magic.
