@@ -28,8 +28,8 @@ Fabric is intended to live inside of your project directy and run tasks related 
 
 Now, to update the DigitalOcean server that hosts our site, all I have to do is:
 
-{% hightlight bash %}
+{% highlight bash %}
 $ ocean update
-{%: endhighlight %}
+{% endhighlight %}
 
 Magic.
