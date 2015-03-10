@@ -39,5 +39,11 @@ Maybe the real reason though is that I just thought it would be fun to write my 
 
 [Nate Prewitt](https://github.com/nateprewitt) contributed code for the creation module.  Ginger is built on a bunch of different technologies, including jinja2, Handlebars.js and Bootstrap.
 
+## Need something heavier?
+
+Need something geared more towards analysis and visualization, with the full force of numpy and matplotlib? Check out [Spyre](https://github.com/adamhajari/spyre) by Adam Hajari.
+
+<br />
+
 *Code is cool.*
 
