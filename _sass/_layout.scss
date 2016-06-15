@@ -18,7 +18,8 @@
 
     p { margin: 60px 0; }
 
-    .resume-link { margin-bottom: 15px; color: $brand-color; display: inline-block; }
+    .resume-link { margin: 15px 0; color: $brand-color; display: block; }
+    .photos-link { margin: 30px 0 15px 0; color: #FF490D; display: block; font-weight: bold; font-size: .9em;}
 
     .site-title {
         font-size: 26px;
@@ -79,19 +80,29 @@
     @include media-query($on-palm) {
         padding-right: 0;
         margin-right: 0;
+        text-align: center;
         .text { display: none; }
         .site-nav {
-            margin-top: 15px;
-            text-align: left;
+            width: 100%;
+            margin-top: 15px 0 0 0;
+            text-align: center;
+            a.page-link { display: block; border-top: none; margin: 0;}
         }
-        .left, .site-nav { width: 100%; padding-right: 0; margin-right: 0; }
+        .left, .site-nav { width: 100%; padding-right: 0; margin-right: 0; font-size: 1.4em;}
+        .site-title { text-align: center; width: 100%; font-size: 1.3em; font-weight: bold; }
+        .resume-link { margin: 15px 0; font-size: 1.4em; }
+        .photos-link {  margin: 20 0 15px 0; font-size: 1.2em; }
     }
 }
 
 .header-image {
     margin-bottom: 30px;
+    margin-top: -258px;
     @include media-query($on-laptop) {
         margin-top: -250px;
+    }
+    @include media-query($on-palm) {
+        display: none;
     }
 }
 
