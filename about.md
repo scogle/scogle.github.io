@@ -10,9 +10,9 @@ permalink: /about/
 
 ### Bio
 
-I'm a software engineer in Fort Collins, CO.  I'm a bit obsessed with data visualization, software, and thinking about ways to hack journalism.  I currently work at [Semantic Arts](http://semanticarts.com/), a semantic technology consultancy where I'm a jack of all trades with a penchant for ETL and data visualization.  Off work, I ride a road bike, drink local beer and telemark ski.
+I'm a software engineer in Portland, OR. By day I'm at a company called [Vacasa](https://www.vacasa.com/) where I'm working to buid a kick-ass engineering team to improve the way we onboard employees. On the weekend I mountain bike, ski, climb and backpack around the Pacific Northwest.
 
-I'm also a minimalist, but minimally so.
+I'm a minimalist, but minimally so.
 
 ### About the site
 
